@@ -1,0 +1,44 @@
+{
+  "name": "trader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asciichart": "^1.5.7",
+    "async": "^2.6.2",
+    "axios": "^0.18.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "bittrex-market": "^2.2.0",
+    "candlestick": "^0.0.3",
+    "cctx": "^1.0.1",
+    "chalk-form": "^1.0.0",
+    "chartjs-node": "^1.7.1",
+    "crypto": "^1.0.1",
+    "fast-stats": "^0.0.4",
+    "lodash": "^4.17.11",
+    "moment": "^2.23.0",
+    "ololog": "^1.1.114",
+    "progress": "^2.0.3",
+    "protocol-buffers": "^4.1.0",
+    "redis": "^2.8.0",
+    "swagger-client": "^2.2.21",
+    "talib": "^1.0.6",
+    "talib-binding": "^0.4.0",
+    "technicalindicators": "^2.0.7",
+    "tensorflow": "^0.7.0",
+    "trendyways": "^0.4.2",
+    "url": "^0.11.0",
+    "ws": "^6.1.2"
+  },
+  "devDependencies": {
+    "babel-plugin-wildcard": "^5.0.0"
+  }
+}
